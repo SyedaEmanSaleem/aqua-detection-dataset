@@ -8,7 +8,7 @@ This repository provides an **annotated dataset** and a **Jupyter Notebook** for
 ## 📂 Contents
 
 ```
-📦 underwater-object-detection   
+📦 aqua-detection-dataset   
  ┣ 📜 underwater_object_detection.ipynb   # Training & evaluation notebook  
  ┣ 📜 requirements.txt         # Dependencies  
  ┣ 📜 README.md                # Documentation  
