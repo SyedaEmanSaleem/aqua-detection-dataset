@@ -12,7 +12,7 @@ This repository provides an **annotated dataset** and a **Jupyter Notebook** for
  ┣ 📜 underwater_object_detection.ipynb   # Training & evaluation notebook  
  ┣ 📜 requirements.txt         # Dependencies  
  ┣ 📜 README.md                # Documentation  
- ┗ 📂 results/                 # Training logs & sample outputs
+ ┗ 📜 results.csv                 # Training logs & sample outputs
 ```
 
 ---
