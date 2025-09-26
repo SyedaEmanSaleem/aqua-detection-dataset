@@ -84,10 +84,6 @@ YOLOv8n trained for **88 epochs** on this dataset achieved:
 **Overall mAP@50 ≈ 0.79**
 **Overall mAP@50-95 ≈ 0.46**
 
-📌 Example Detection:
-
-![Sample Result](results/sample_output.jpg)
-
 ---
 
 ## 📜 License
