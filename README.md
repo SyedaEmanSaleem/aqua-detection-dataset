@@ -9,11 +9,11 @@ This repository provides an **annotated dataset** and a **Jupyter Notebook** for
 
 ```
 📦 aqua-detection-dataset   
- ┣ 📜 underwater_object_detection.ipynb   # Training & evaluation notebook  
- ┣ 📜 requirements.txt         # Dependencies  
- ┣ 📜 README.md                # Documentation  
- ┗ 📜 results.csv                 # Training logs & sample outputs
-```
+ ┣ 📜 underwater_object_detection.ipynb   
+ ┣ 📜 requirements.txt       
+ ┣ 📜 README.md                
+ ┗ 📜 results.csv
+ ┗ 📜 best.pt
 
 ---
 
